@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/03 13:49:00.000.624,=D:\Programming\Delphi\Free Space\FormUnit1.pas</Transaction>
+    <Transaction>2021/10/03 13:49:00.000.847,=D:\Programming\Delphi\Free Space\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/10/03 13:59:06.000.940,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2021/10/06 14:58:26.000.972,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2021/11/07 11:59:03.000.008,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/01/13 21:17:01.000.010,=D:\Programming\Delphi\Free Space\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/03/15 19:53:22.000.619,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/06/18 13:48:59.000.570,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/06/25 22:35:49.000.008,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/09/07 13:31:29.000.280,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/10/24 17:10:29.000.015,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/12/17 13:32:37.000.959,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2022/12/24 13:24:31.000.658,=D:\Programming\Delphi\Free Space\GroupedItems1.pas</Transaction>
+    <Transaction>2022/12/24 13:24:33.000.570,=D:\Programming\Delphi\Free Space\SplitItemDetail1.pas</Transaction>
+    <Transaction>2023/01/09 19:22:09.000.098,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2023/08/14 21:01:04.000.256,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 20:43:33.000.859,=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 21:05:44.000.992,D:\Youtube Lessons\Source Code\GUID - UUID\frmMainFile.dfm=D:\Programming\Delphi\Free Space\Unit1.dfm</Transaction>
+    <Transaction>2023/08/16 21:05:44.000.992,D:\Youtube Lessons\Source Code\GUID - UUID\frmMainFile.pas=D:\Programming\Delphi\Free Space\Unit1.pas</Transaction>
+    <Transaction>2023/08/16 21:05:51.000.518,D:\Youtube Lessons\Source Code\GUID - UUID\GUID_UUID.dproj=D:\Programming\Delphi\Free Space\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
